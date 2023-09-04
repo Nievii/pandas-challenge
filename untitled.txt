@@ -1,0 +1,9 @@
+Panada's challenge analysis report 
+
+This report summarises some of the key findings for school districts. 
+
+District Summary
+There are 15 schools with with a total of 39,170 students. The average maths score is 79% with a 75% pass rate, whilst the avergae reading score is 82% with a 86% pass rate. The overall pass rate for maths and english combined is 65%. 
+
+School Summary
+There are a total of 7 District schools and 8 Charter schools in the data. The biggest school is the Bailey High School whilst the smallest school is Holden High School.The highest performing school with the highest overall passing rate is Cabrera High School at 91%. The top 5 performing schools were all Charter Schools. On the other hand the bottom 5 performing Schools were all District schools, with Rodriguez High School having the lowest overall passing rate at 52%. Scores by school spendings indicates a lower spending range (per student) correlated with better academic outcomes. For example spending rangers per student <$585 had a overall passing rate of 90%, where as $645-680 had a overall passing rate of 53%. 
